@@ -114,6 +114,7 @@ body{
 }
       .quote-box blockquote{
     font-size: 23px;
+    max-height:250px;
 
 }
 }
