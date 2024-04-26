@@ -110,8 +110,10 @@ body{
       width: 90%;
     }
     .quote-box h2{
-    font-family:17px;
-  
+    font-family:22px;
+}
+      .quote-box blockquote{
+    font-size: 18px;
 
 }
 }
