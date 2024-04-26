@@ -31,6 +31,7 @@ body{
     font-family:32px;
     margin-bottom: 40px;
     position: relative;
+    text-align:center;
 
 }
 .quote-box h2::before{
