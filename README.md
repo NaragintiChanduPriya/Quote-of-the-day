@@ -21,6 +21,11 @@ Welcome to the **Quote of the Day** project! This simple web application display
 3. Enjoy a new quote every time you refresh the page or click "New Quote."
 4. Click the "Tweet" button to share the quote on Twitter.
 
+   
+## website link
+
+check it out: https://quote-of-day.pages.dev/
+
 ## API Used
 
 We use the Quotable API to fetch random quotes. It's a great resource for inspiring and thought-provoking quotes.
