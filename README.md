@@ -13,6 +13,9 @@ Welcome to the **Quote of the Day** project! This simple web application display
 - **HTML**: The structure of the web page.
 - **CSS**: Styling for a clean and minimalistic design.
 - **JavaScript**: Handles API requests, quote generation, and Twitter sharing.
+## Image:
+![image](https://github.com/NaragintiChanduPriya/Quote-of-the-day/assets/103315311/8842ebc7-a70b-4e0b-9197-b785afc7f1a3)
+
 
 ## How to Use
 
